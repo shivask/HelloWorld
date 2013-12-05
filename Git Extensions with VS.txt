@@ -1,7 +1,1 @@
-Install GitExtensions from google: http://code.google.com/p/gitextensions/
-Install plug-in from codeplex: http://gitscc.codeplex.com/
-
-Select Plug-in provider as 'Git Source Control Provider' in VS - > Tools -> Options -> Source Control -> Plug-in Slection 
-
-
-More details : http://blog.discountasp.net/using-git-with-visual-studio-2010-an-introduction-2/
+Modified file
